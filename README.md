@@ -1,6 +1,3 @@
-Certainly! Below is a structured Readme template for your project on GitHub:
-
-```markdown
 # YouTube Word Cloud Generator
 
 ## Overview
