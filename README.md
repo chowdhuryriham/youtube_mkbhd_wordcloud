@@ -34,7 +34,7 @@ YouTube Word Cloud Generator is a Python script that fetches transcripts from a 
 2. **Install required Python libraries:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install nltk wordcloud matplotlib langdetect youtube_transcript_api numpy Pillow
    ```
 
    Ensure you have installed the necessary libraries using the provided `requirements.txt` file.
